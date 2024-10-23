@@ -1,0 +1,28 @@
+Git Commands
+git init: Initialize a local git repository
+git clone url: Create a local copy of a remote repository
+git add filename: Add a file to the staging area
+git commit -m "Commit message": Commit changes with a message
+git status: Check the status of the working directory
+git pull: Pull latest changes from the remote repository
+git push: Push changes to the remote repository
+git branch: List all local branches
+git branch branchname: Create a new branch
+git checkout branchname: Switch to a branch
+git merge branchname: Merge a branch into the active branch
+git stash: Stash changes in a dirty working directory
+git stash apply: Apply changes from a stash
+git log: View commit history
+git reset: Reset your HEAD pointer to a previous commit
+
+
+
+
+
+
+
+
+
+
+
+
